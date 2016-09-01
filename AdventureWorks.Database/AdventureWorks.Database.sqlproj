@@ -270,4 +270,7 @@ Table=[Person].[EmailAddressType];
   <ItemGroup>
     <None Include="Migrations\0007_Person.Person_AddCarRegNum.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrations\0008_HumanResources.Employee_AddCurrencyPaid.sql" />
+  </ItemGroup>
 </Project>
